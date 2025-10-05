@@ -1,5 +1,8 @@
-.bg-roxoesc{
-    background-color:rgb(68, 17, 116);
+.divMain{
+    height: 100vh;
+}
+.bg-main{
+    background-color: rgb(36, 36, 36);
 }
 .white{
     color: whitesmoke;

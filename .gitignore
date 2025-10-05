@@ -1,0 +1,8 @@
+# Ignorar a pasta do Bootstrap
+bootstrap/
+
+# Ignorar dependências do Node.js (boa prática)
+node_modules/
+
+# Ignorar arquivos de ambiente
+.env
